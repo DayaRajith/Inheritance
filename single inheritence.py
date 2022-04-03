@@ -24,3 +24,7 @@ obj.putdetails()
 obj.inputdetails()
 obj.putdetails1()
 obj.putdetails()
+
+
+
+#this is an example showing single inheritance
