@@ -27,4 +27,3 @@ obj.putdetails()
 
 
 
-#this is an example showing single inheritance
